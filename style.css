@@ -1,0 +1,42 @@
+.Uppernavbar {
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 15px;
+    text-align: right;
+}
+
+form {
+    display: block;
+    height: 118px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    padding-top: 109px;
+    padding-left: 500px;
+    align-items: center;
+    height: 92px;
+    margin: 89px 89px 5px;
+}
+section {
+    display: block;
+}
+
+input[type="search"], select {
+    font-family: arial, sans-serif;
+    box-sizing: unset;
+    height: 40px;
+    width: 530px;
+    display: block;
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.87);
+    padding: 5px 8px 0px 14px;
+    margin: 18px 450px 10px;
+    border-radius: 50px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: initial;
+    border-image: initial;
+}
